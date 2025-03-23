@@ -1,5 +1,0 @@
-requests
-pyTelegramBotAPI
-pycryptodome
-protobuf
-datetime
